@@ -1,0 +1,50 @@
+ 1006  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+ 1007  /opt/anaconda3/envs/dev/bin/python /Users/grayson/Downloads/currency-converter-project.py
+ 1008   /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 63968 -- /Users/grayson/Downloads/currency-converter-project.py 
+ 1009  conda activate dev2
+ 1010  conda install -c pyviz hvplot geoviews
+ 1011  ls
+ 1012  cd documents
+ 1013  cd jupyterlab
+ 1014  ls
+ 1015  jupyter lab
+ 1016  cd week_6
+ 1017  jupyter lab
+ 1018  cd ..
+ 1019  cd week_6
+ 1020  jupyter lab
+ 1021  jupyter lab
+ 1022  jupyter lab
+ 1023  conda list geoviews
+ 1024  jupyter lab
+ 1025  jupyter lab
+ 1026  cd ..
+ 1027  cd ..
+ 1028  ls
+ 1029  cd challenges
+ 1030  ls
+ 1031  git clone https://github.com/ghedrick76/module_6_challenge.git
+ 1032  git add .
+ 1033  cd module_6_challenge
+ 1034  git add .
+ 1035  git commit . -m "Initial commit of starter files"
+ 1036  git push
+ 1037  jupyter lab
+ 1038  git add .
+ 1039  git commit -m "Housing units per year chart analyzed"
+ 1040  git push
+ 1041  git status
+ 1042  git push
+ 1043  git push
+ 1044  jupyter lab
+ 1045  git add .
+ 1046  git commit . -m "Average sale price per sqft calculated and plotted.  Fixed the code for the first step"
+ 1047  git push
+ 1048  jupyter lab
+ 1049  git add .
+ 1050  git commit . "Comparison of average sale prices by neighborhood completed"
+ 1051  git commit -m "Comparison of average sale prices by neighborhood completed"
+ 1052  git push
+ 1053  jupyter lab
+ 1054  history < 50 history.txt
+ 1055  history 50 history.txt
